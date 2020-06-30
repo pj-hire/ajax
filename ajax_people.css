@@ -1,0 +1,50 @@
+.container {
+  /* border: solid 1px; */
+
+}
+
+div {
+  /* border: solid 1px; */
+  padding: 25px;
+
+  text-align: center;
+}
+
+img {
+  max-height: 300px;
+  height: auto;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.myDiv {
+  border: solid 1px;
+  margin-bottom: 20px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form_container {
+  border: solid 1px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form {
+  padding: 15px;
+}
+
+.msg {
+  background: green;
+  color: white;
+  display: none;
+  padding: 10px;
+}
+
+.msg_visible {
+  display: block;
+}
